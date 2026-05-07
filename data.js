@@ -38,8 +38,8 @@ window.PAGE_DATA = {
           "file": "assets/videos/teaser/continuous/whitehorse/g0.6.mp4"
         },
         {
-          "label": "g = +1.5",
-          "file": "assets/videos/teaser/continuous/whitehorse/g+1.5.mp4"
+          "label": "g = +1.0",
+          "file": "assets/videos/teaser/continuous/whitehorse/g+1.0.mp4"
         }
       ]
     }
